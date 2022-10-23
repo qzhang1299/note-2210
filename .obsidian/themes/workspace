@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "3af48eec18368fd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ae829e15db847a3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "历史/资治通鉴/通鉴纪年/周纪四，前297-前273，凡25年.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc96d701c5f3cda5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f10bc6aa447cea14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6ba1f66ef88131e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ee63736fe356125",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4084032e196f98d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec89872fc5e81005",
+    "type": "split",
+    "children": [
+      {
+        "id": "169f9123aa3f5481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1ee39611f1663f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "历史/资治通鉴/通鉴纪年/周纪四，前297-前273，凡25年.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b06317736bb8a515",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "历史/资治通鉴/通鉴纪年/周纪四，前297-前273，凡25年.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d9e0bbb76fd1589",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e591d90d31ae480",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "历史/资治通鉴/通鉴纪年/周纪四，前297-前273，凡25年.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 187.5
+  },
+  "active": "5ae829e15db847a3",
+  "lastOpenFiles": [
+    "白起.md",
+    "历史/资治通鉴/通鉴纪年/周纪四，前297-前273，凡25年.md",
+    "乐毅伐齐.md",
+    "历史/资治通鉴/通鉴纪事本末/三家分晋秦并六国豪杰亡秦.md",
+    "鸡鸣狗盗.md",
+    "历史/兵家.md",
+    "主父亡沙丘.md",
+    "历史/资治通鉴/通鉴纪年/周纪三，前320-前298，凡23年.md",
+    "哲学/积极生活与沉思生活.md",
+    "哲学/思想的边界.md"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "byCreatedTimeReverse",
+  "promptDelete": false,
+  "autoConvertHtml": true,
+  "attachmentFolderPath": "附件",
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

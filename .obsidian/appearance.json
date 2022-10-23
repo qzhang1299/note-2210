@@ -1,4 +1,10 @@
 {
-  "accentColor": "",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "cssTheme": "Blue Christmas Version",
+  "baseFontSize": 20,
+  "translucency": false,
+  "textFontFamily": "楷体,华文楷体,黑体",
+  "accentColor": "#e64c4c",
+  "interfaceFontFamily": "Franklin Gothic Medium",
+  "monospaceFontFamily": "Miriam"
 }
