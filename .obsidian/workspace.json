@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ef2f2ff294b40333",
+        "id": "b03e501b8501fec2",
         "type": "tabs",
         "children": [
           {
-            "id": "2dbff1d16c408914",
+            "id": "f7a7bd29aec92ee2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪四.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4e29a9c72ac72d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "历史/资治通鉴/通鉴纪年/晁错.md",
-                "mode": "source",
+                "file": "历史/资治通鉴/通鉴纪年/汉纪八(称不上明君的汉景帝）.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/晁错.md",
+                "file": "历史/资治通鉴/通鉴纪年/汉纪八(称不上明君的汉景帝）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/晁错.md",
+                "file": "历史/资治通鉴/通鉴纪年/汉纪八(称不上明君的汉景帝）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/晁错.md"
+                "file": "历史/资治通鉴/通鉴纪年/汉纪八(称不上明君的汉景帝）.md"
               }
             }
           },
@@ -157,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d4e29a9c72ac72d5",
+  "active": "f7a7bd29aec92ee2",
   "lastOpenFiles": [
+    "历史/资治通鉴/通鉴纪年/孝景本纪.md",
+    "历史/资治通鉴/通鉴纪年/汉纪八(称不上明君的汉景帝）.md",
+    "历史/资治通鉴/通鉴纪年/史记·绛侯周勃世家.md",
+    "历史/资治通鉴/通鉴纪年/晁错.md",
+    "历史/资治通鉴/通鉴纪年/汉朝七国之乱.md",
+    "历史/资治通鉴/通鉴纪年/汉纪七(一代仁君汉文帝）.md",
+    "历史/资治通鉴/通鉴纪年/汉纪四.md",
     "历史/资治通鉴/通鉴纪年/淳于缇萦上书救父.md",
     "历史/资治通鉴/通鉴纪年/冯唐.md",
-    "历史/资治通鉴/通鉴纪年/汉文帝.md",
-    "历史/资治通鉴/通鉴纪年/晁错.md",
-    "历史/资治通鉴/通鉴纪年/汉纪七(一代仁君汉文帝）.md",
-    "历史/资治通鉴/通鉴纪年/贾谊.md",
-    "历史/资治通鉴/通鉴纪年/当权者如何正确尊贵家长.md",
-    "历史/资治通鉴/通鉴纪年/朝廷如何处理外戚势力.md",
-    "历史/资治通鉴/通鉴纪年/汉纪五（诸吕之乱文帝即位）.md",
-    "历史/资治通鉴/通鉴纪年/汉纪六（张释之飞升廷尉贾长沙上疏治国）.md"
+    "历史/资治通鉴/通鉴纪年/汉文帝.md"
   ]
 }
