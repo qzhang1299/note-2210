@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3ddcc31322f537f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "历史/董仲舒.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#箫规曹随",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪八(称不上明君的汉景帝）.md",
+                "file": "历史/董仲舒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪八(称不上明君的汉景帝）.md",
+                "file": "历史/董仲舒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪八(称不上明君的汉景帝）.md"
+                "file": "历史/董仲舒.md"
               }
             }
           },
@@ -137,24 +150,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f7a7bd29aec92ee2",
+  "active": "e3ddcc31322f537f",
   "lastOpenFiles": [
-    "历史/资治通鉴/通鉴纪年/汉纪七(一代仁君汉文帝）.md",
-    "历史/资治通鉴/通鉴纪年/汉朝七国之乱.md",
+    "历史/独尊儒术废黜百家.md",
+    "历史/董仲舒.md",
     "历史/资治通鉴/通鉴纪年/汉纪八(称不上明君的汉景帝）.md",
-    "历史/资治通鉴/通鉴纪年/史记·绛侯周勃世家.md",
+    "历史/资治通鉴/通鉴纪年/臧儿.md",
     "历史/资治通鉴/通鉴纪年/孝景本纪.md",
-    "历史/资治通鉴/通鉴纪年/晁错.md",
-    "历史/资治通鉴/通鉴纪年/汉纪四.md",
-    "历史/资治通鉴/通鉴纪年/淳于缇萦上书救父.md",
-    "历史/资治通鉴/通鉴纪年/冯唐.md",
-    "历史/资治通鉴/通鉴纪年/汉文帝.md"
+    "历史/资治通鉴/通鉴纪年/周纪三（张仪连横七国纷争）.md",
+    "历史/资治通鉴/鸡鸣狗盗.md",
+    "历史/资治通鉴/通鉴纪年/周纪四（白起封神乐毅伐齐）.md",
+    "历史/资治通鉴/通鉴纪年/秦纪一（秦灭六国嬴政即位）.md",
+    "历史/资治通鉴/通鉴纪年/汉纪二（中原逐鹿韩信建功）.md"
   ]
 }
