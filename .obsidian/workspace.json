@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d574bb9aee9babf5",
+            "id": "144388c53e29072a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "历史/资治通鉴/通鉴纪年/冯唐.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "8ecb96e1537ba242",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/冯唐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/冯唐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "历史/资治通鉴/通鉴纪年/冯唐.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d574bb9aee9babf5",
+  "active": "144388c53e29072a",
   "lastOpenFiles": [
-    "历史/资治通鉴/通鉴纪年/汉纪九(汉武帝独尊儒术）.md",
-    "历史/资治通鉴/通鉴纪年/周纪三（张仪连横七国纷争）.md",
+    "历史/资治通鉴/通鉴纪年/汉纪十四（巫蛊之乱武帝终局）.md",
+    "历史/资治通鉴/通鉴纪年/西汉解决财政问题之盐铁造币算缗.md",
     "历史/资治通鉴/通鉴纪年/汉纪十三（武帝收朝鲜通西域置十三州）.md",
-    "历史/资治通鉴/通鉴纪年/汉纪十二（武帝寻仙封禅平定越地）.md",
     "历史/资治通鉴/通鉴纪年/史记李将军列传.md",
-    "历史/资治通鉴/白起.md",
-    "历史/资治通鉴/通鉴纪事本末/三家分晋秦并六国豪杰亡秦.md",
-    "历史/兵家.md",
-    "历史/资治通鉴/王翦.md",
-    "历史/刘基.md"
+    "历史/资治通鉴/通鉴纪年/汉李延年.md",
+    "历史/资治通鉴/通鉴纪年/汲黯.md",
+    "历史/资治通鉴/通鉴纪年/汉纪十二（武帝寻仙封禅平定越地）.md",
+    "历史/资治通鉴/通鉴纪年/冯唐.md",
+    "历史/资治通鉴/通鉴纪年/汉纪九(汉武帝独尊儒术）.md",
+    "历史/资治通鉴/通鉴纪年/周纪三（张仪连横七国纷争）.md"
   ]
 }
