@@ -11,8 +11,12 @@
             "id": "144388c53e29072a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "历史/资治通鉴/通鉴纪年/项羽本纪.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#角抵戏、鱼龙曼延",
+                "query": "tag:#精彩故事",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "历史/资治通鉴/通鉴纪年/项羽本纪.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "历史/资治通鉴/通鉴纪年/项羽本纪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "历史/资治通鉴/通鉴纪年/项羽本纪.md"
+              }
             }
           },
           {
@@ -136,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "144388c53e29072a",
+  "active": "0fafe6d892702af8",
   "lastOpenFiles": [
-    "历史/资治通鉴/通鉴纪年/汉纪十四（巫蛊之乱武帝终局）.md",
-    "历史/资治通鉴/通鉴纪年/西汉解决财政问题之盐铁造币算缗.md",
-    "历史/资治通鉴/通鉴纪年/汉纪十三（武帝收朝鲜通西域置十三州）.md",
     "历史/资治通鉴/通鉴纪年/史记李将军列传.md",
     "历史/资治通鉴/通鉴纪年/汉李延年.md",
-    "历史/资治通鉴/通鉴纪年/汲黯.md",
-    "历史/资治通鉴/通鉴纪年/汉纪十二（武帝寻仙封禅平定越地）.md",
+    "历史/资治通鉴/通鉴纪年/汉纪十四（巫蛊之乱武帝交班）.md",
     "历史/资治通鉴/通鉴纪年/冯唐.md",
-    "历史/资治通鉴/通鉴纪年/汉纪九(汉武帝独尊儒术）.md",
-    "历史/资治通鉴/通鉴纪年/周纪三（张仪连横七国纷争）.md"
+    "历史/资治通鉴/通鉴纪年/汉书硃买臣.md",
+    "历史/资治通鉴/通鉴纪年/臧儿.md",
+    "历史/资治通鉴/通鉴纪年/淳于缇萦上书救父.md",
+    "历史/资治通鉴/通鉴纪年/汉纪十五（明君昭帝短暂的光辉）.md",
+    "历史/史.md",
+    "历史/资治通鉴/通鉴纪年/当权者如何正确尊贵家长.md"
   ]
 }
