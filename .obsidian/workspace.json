@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/公与私.md",
+                "file": "历史/资治通鉴/改朝换代的杀戮.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "张骞",
+                "query": "tag:#累卵之危累卵之危",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/公与私.md",
+                "file": "历史/资治通鉴/改朝换代的杀戮.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/公与私.md",
+                "file": "历史/资治通鉴/改朝换代的杀戮.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/公与私.md"
+                "file": "历史/资治通鉴/改朝换代的杀戮.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,15 +147,15 @@
   },
   "active": "a47920af84d8f361",
   "lastOpenFiles": [
+    "历史/资治通鉴/事实与真相.md",
+    "历史/资治通鉴/通鉴纪年/汉纪二十二(受人摆布的成帝）.md",
     "历史/资治通鉴/通鉴纪年/昏庸之辈.md",
-    "历史/资治通鉴/通鉴纪年/与人论谏书.md",
-    "历史/资治通鉴/通鉴纪年/周纪一（三家分晋田氏代齐）.md",
+    "历史/资治通鉴/通鉴纪年/讼陈汤疏.md",
     "历史/资治通鉴/通鉴纪年/汉纪二十一（汉元帝强汉振余威）.md",
-    "历史/资治通鉴/通鉴纪年/古今的官员都经不得调查.md",
-    "历史/资治通鉴/通鉴纪年/汉纪二十(元帝昏庸汉朝衰败）.md",
-    "历史/资治通鉴/通鉴纪年/近亲繁殖.md",
-    "历史/资治通鉴/通鉴纪年/汉纪十七（宣帝宽刑薄赋霍氏灭族）.md",
+    "Markdown语法.md",
     "历史/资治通鉴/通鉴纪年/汉纪十六（宣帝即位霍光善终）.md",
-    "历史/资治通鉴/通鉴纪年/汉纪十四（巫蛊之乱武帝交班）.md"
+    "历史/资治通鉴/通鉴纪年/汉纪十五（明君昭帝短暂的光辉）.md",
+    "历史/资治通鉴/通鉴纪年/周纪二（商鞅变法苏秦合纵）.md",
+    "历史/商鞅变法.md"
   ]
 }
