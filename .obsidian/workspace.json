@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b03e501b8501fec2",
+        "id": "8c55978777fcf915",
         "type": "tabs",
         "children": [
           {
-            "id": "a47920af84d8f361",
+            "id": "4cc1746171e67aab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪二十三（成帝胡为飞燕立后）.md",
+                "file": "历史/资治通鉴/通鉴纪年/刘向.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -49,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#累卵之危累卵之危",
+                "query": "tag:#精彩故事",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 308.5
   },
   "right": {
     "id": "8ecb96e1537ba242",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪二十三（成帝胡为飞燕立后）.md",
+                "file": "历史/资治通鉴/通鉴纪年/刘向.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪二十三（成帝胡为飞燕立后）.md",
+                "file": "历史/资治通鉴/通鉴纪年/刘向.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪二十三（成帝胡为飞燕立后）.md"
+                "file": "历史/资治通鉴/通鉴纪年/刘向.md"
               }
             }
           },
@@ -143,19 +142,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
-  "active": "a47920af84d8f361",
+  "active": "4cc1746171e67aab",
   "lastOpenFiles": [
-    "历史/资治通鉴/通鉴纪年/汉书元后传.md",
     "历史/资治通鉴/通鉴纪年/汉纪二十三（成帝胡为飞燕立后）.md",
-    "历史/资治通鉴/通鉴纪年/汉纪二十二(受人摆布的成帝）.md",
-    "历史/资治通鉴/通鉴纪年/汉纪二十(元帝昏庸汉朝衰败）.md",
-    "历史/资治通鉴/通鉴纪年/汉纪一（秦朝灭亡楚汉相争）.md",
-    "历史/资治通鉴/通鉴纪年/古今的官员都经不得调查.md",
-    "历史/资治通鉴/通鉴纪年/周纪一（三家分晋田氏代齐）.md",
-    "历史/资治通鉴/通鉴纪年/汉纪二（中原逐鹿韩信建功）.md",
-    "历史/资治通鉴/通鉴纪年/汉纪十七（宣帝宽刑薄赋霍氏灭族）.md",
-    "历史/资治通鉴/通鉴纪年/汉纪十八（中宗平定西羌匈奴来朝）.md"
+    "历史/资治通鉴/通鉴纪年/刘向.md",
+    "历史/资治通鉴/通鉴纪年/汉书元后传.md",
+    "附件/汉朝帝系.png",
+    "隋纪三.md",
+    "西晋之乱.md",
+    "周纪一.md",
+    "历史/资治通鉴/通鉴纪年/讼陈汤疏.md",
+    "历史/资治通鉴/通鉴纪年/与人论谏书.md",
+    "历史/资治通鉴/通鉴纪年/昏庸之辈.md"
   ]
 }
