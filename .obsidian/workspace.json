@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪三十二 光武称帝.md",
+                "file": "历史/资治通鉴/通鉴纪年/汉纪三十三 光武平赤眉.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪三十二 光武称帝.md",
+                "file": "历史/资治通鉴/通鉴纪年/汉纪三十三 光武平赤眉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪三十二 光武称帝.md",
+                "file": "历史/资治通鉴/通鉴纪年/汉纪三十三 光武平赤眉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪三十二 光武称帝.md"
+                "file": "历史/资治通鉴/通鉴纪年/汉纪三十三 光武平赤眉.md"
               }
             }
           },
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,15 +160,15 @@
   },
   "active": "bcfdefc088cb2f09",
   "lastOpenFiles": [
-    "历史/资治通鉴/通鉴纪年/该不该送礼，该不该收礼.md",
+    "历史/资治通鉴/通鉴纪年/刘秀和刘邦，何如？.md",
+    "历史/资治通鉴/通鉴纪年/汉纪三十三 光武平赤眉.md",
+    "附件/二十七年底混乱形势.png",
     "历史/资治通鉴/通鉴纪年/汉纪三十二 光武称帝.md",
+    "Markdown语法.md",
+    "历史/资治通鉴/通鉴纪年/官员不会犯错误的观念是错误的.md",
+    "历史/资治通鉴/通鉴纪年/该不该送礼，该不该收礼.md",
     "附件/汉朝十国十五郡全图.png",
     "附件/前二世纪西汉扩张1.jpg",
-    "附件/前二世纪西汉扩张.jpg",
-    "历史/资治通鉴/通鉴纪年/汉纪三十一 反军四起新莽覆灭.md",
-    "附件/24年形势.jpg",
-    "历史/资治通鉴/通鉴纪年/贵族消亡.md",
-    "历史/资治通鉴/通鉴纪年/兵家的堕落.md",
-    "历史/资治通鉴/通鉴纪年/昆阳之战.md"
+    "附件/前二世纪西汉扩张.jpg"
   ]
 }
