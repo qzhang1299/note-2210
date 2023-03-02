@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪三十六 光武交班明帝即位.md",
+                "file": "历史/资治通鉴/通鉴纪年/汉纪三十七 东汉明帝天下安平.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪三十六 光武交班明帝即位.md",
+                "file": "历史/资治通鉴/通鉴纪年/汉纪三十七 东汉明帝天下安平.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪三十六 光武交班明帝即位.md",
+                "file": "历史/资治通鉴/通鉴纪年/汉纪三十七 东汉明帝天下安平.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪三十六 光武交班明帝即位.md"
+                "file": "历史/资治通鉴/通鉴纪年/汉纪三十七 东汉明帝天下安平.md"
               }
             }
           },
@@ -147,11 +147,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "zk-prefixer:创建时间戳笔记": false,
@@ -160,9 +160,9 @@
   },
   "active": "bcfdefc088cb2f09",
   "lastOpenFiles": [
+    "历史/资治通鉴/通鉴纪年/汉纪三十六 光武交班明帝即位.md",
     "历史/资治通鉴/通鉴纪年/汉纪七(一代仁君汉文帝）.md",
     "历史/资治通鉴/通鉴纪年/天花板现象.md",
-    "历史/资治通鉴/通鉴纪年/汉纪三十六 光武交班明帝即位.md",
     "历史/资治通鉴/通鉴纪年/游牧民族的历史已经结束.md",
     "历史/资治通鉴/通鉴纪年/汉纪三十四 光武征伐关西蜀地，痛失四将.md",
     "历史/资治通鉴/通鉴纪年/汉纪三十五 光武平公孙述降卢芳.md",
