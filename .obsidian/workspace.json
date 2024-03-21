@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "566966449e46ca52",
+        "id": "64eb102f61dda4e0",
         "type": "tabs",
         "children": [
           {
-            "id": "bcfdefc088cb2f09",
+            "id": "f3484353140f8f88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪三十七 东汉明帝天下安平.md",
+                "file": "历史/资治通鉴/通鉴纪年/汉纪六十 （汉朝最后的时光）.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#刻鹄不成尚类鹜",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,6 +63,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "38b2b724d927cc2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪三十七 东汉明帝天下安平.md",
+                "file": "历史/资治通鉴/通鉴纪年/汉纪六十 （汉朝最后的时光）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪三十七 东汉明帝天下安平.md",
+                "file": "历史/资治通鉴/通鉴纪年/汉纪六十 （汉朝最后的时光）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史/资治通鉴/通鉴纪年/汉纪三十七 东汉明帝天下安平.md"
+                "file": "历史/资治通鉴/通鉴纪年/汉纪六十 （汉朝最后的时光）.md"
               }
             }
           },
@@ -147,28 +155,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "zk-prefixer:创建时间戳笔记": false,
-      "random-note:开始漫游笔记": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bcfdefc088cb2f09",
+  "active": "f3484353140f8f88",
   "lastOpenFiles": [
-    "历史/资治通鉴/通鉴纪年/汉纪三十六 光武交班明帝即位.md",
-    "历史/资治通鉴/通鉴纪年/汉纪七(一代仁君汉文帝）.md",
-    "历史/资治通鉴/通鉴纪年/天花板现象.md",
-    "历史/资治通鉴/通鉴纪年/游牧民族的历史已经结束.md",
-    "历史/资治通鉴/通鉴纪年/汉纪三十四 光武征伐关西蜀地，痛失四将.md",
-    "历史/资治通鉴/通鉴纪年/汉纪三十五 光武平公孙述降卢芳.md",
-    "老外的发明.md",
-    "没有顶层设计，一切源于野蛮生长.md",
-    "科学精神和系统思维.md",
-    "百家争鸣.md"
+    "历史/资治通鉴/通鉴纪年/汉纪四十（和帝永元之隆东汉盛极转衰）.md",
+    "历史/资治通鉴/通鉴纪年/汉纪四十八 桓皇帝下永康.md",
+    "历史/资治通鉴/通鉴纪年/汉纪五十一 灵皇帝下中平.md",
+    "历史/资治通鉴/通鉴纪年/汉书.md",
+    "历史/资治通鉴/通鉴纪年/汉文帝.md",
+    "历史/资治通鉴/通鉴纪年/皇帝们为什么寿命越来越短.md",
+    "历史/资治通鉴/通鉴纪年/汉纪六十 （汉朝最后的时光）.md",
+    "历史/资治通鉴/通鉴纪年/汉纪五十九 献皇帝壬建安.md",
+    "历史/资治通鉴/通鉴纪年/汉纪五十八 献皇帝辛建安.md",
+    "历史/资治通鉴/通鉴纪年/汉纪五十七 献皇帝庚建安.md",
+    "历史/资治通鉴/通鉴纪年/汉纪五十六 献皇帝己建安.md",
+    "历史/资治通鉴/通鉴纪年/汉纪五十五 献皇帝戊建安.md",
+    "历史/资治通鉴/通鉴纪年/汉纪五十四 献皇帝丁建安.md",
+    "历史/资治通鉴/通鉴纪年/汉纪五十三 献皇帝丙兴平.md",
+    "历史/资治通鉴/通鉴纪年/汉纪五十二 献皇帝乙初.md",
+    "历史/资治通鉴/通鉴纪年/汉纪五十 灵皇帝中光和.md",
+    "历史/资治通鉴/通鉴纪年/汉纪四十九 灵皇帝上之下.md",
+    "历史/资治通鉴/通鉴纪年/汉纪四十七 桓皇帝中延熹.md",
+    "历史/资治通鉴/通鉴纪年/汉纪四十六 桓皇帝上之下.md",
+    "历史/资治通鉴/通鉴纪年/汉纪四十五 质皇帝本初.md",
+    "历史/资治通鉴/通鉴纪年/汉纪四十四 阳嘉.md",
+    "历史/资治通鉴/通鉴纪年/汉纪四十三 安皇帝下延光.md",
+    "历史/资治通鉴/通鉴纪年/汉纪四十二 安皇帝元初.md",
+    "历史/资治通鉴/通鉴纪年/汉纪四十一 殇皇帝.md",
+    "历史/资治通鉴/通鉴纪年/魏纪二 曹丕.md",
+    "历史/资治通鉴/通鉴纪年/魏纪六.md",
+    "Excalidraw/三教.png",
+    "Excalidraw/三教.svg",
+    "52464c15898d6869e98952485493272f.jpg",
+    "4C1B762A-D106-4823-9E1D-53C1CB3803BB.png",
+    "Excalidraw",
+    "附件/舂陵军起兵.jpg",
+    "附件/陈胜称王.jpg",
+    "附件/24年形势.jpg"
   ]
 }
